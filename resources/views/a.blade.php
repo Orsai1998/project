@@ -12,5 +12,7 @@
 <a href="/c">to C</a>
 <a href="/b">to B</a>
 <a href="/c">to C</a>
+<a href="/b">to B</a>
+<a href="/c">to C</a>
 </body>
 </html>

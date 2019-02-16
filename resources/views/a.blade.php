@@ -8,5 +8,9 @@
 <h1>Page A</h1>
 <a href="/b">to B</a>
 <a href="/c">to C</a>
+<a href="/b">to B</a>
+<a href="/c">to C</a>
+<a href="/b">to B</a>
+<a href="/c">to C</a>
 </body>
 </html>
